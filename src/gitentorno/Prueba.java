@@ -9,14 +9,6 @@ package gitentorno;
  *
  * @author Usuario
  */
-public class GitEntorno {
-
-  /**
-   * @param args the command line arguments
-   */
-  public static void main(String[] args) {
-    System.out.println("Hola Mundo");
-    System.out.println("Aprendiendo GIT desde Netbeans");
-  }
+public class Prueba {
   
 }
