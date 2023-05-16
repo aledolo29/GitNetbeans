@@ -10,5 +10,6 @@ package gitentorno;
  * @author Usuario
  */
 public class Prueba {
-  
+
+  private int atributo;
 }
